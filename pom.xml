@@ -10,9 +10,11 @@
 	</parent>
 	<groupId>com.ksr</groupId>
 	<artifactId>Ecomm</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>DemoEcomm</name>
 	<description>Demo project for Spring Boot</description>
+	<packaging>war</packaging>
+	
+	
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -36,6 +38,10 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		
+		<finalName>Ecomm</finalName>
+		
+		
 	</build>
 	
 	
