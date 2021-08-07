@@ -11,7 +11,7 @@ public class Payment {
 	public String display()
 	{
 		
-		return "Welcome to Spring Boot and GitHub Forking ";
+		return "Welcome to Spring Boot and GitHub Forking, Thank you";
 		
 	}
 	
