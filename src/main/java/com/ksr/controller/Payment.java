@@ -12,7 +12,7 @@ public class Payment {
 	{        
 		
 		// welcome to fetch command
-		
+		String name = " Subbarao";
 		
 		return "Welcome to Spring Boot and GitHub Forking, Thanks and regards " ;
 		
