@@ -13,7 +13,7 @@ public class Payment {
 		
 		// comment added
 		
-		return "Welcome to Spring Boot and GitHub Forking, Thank you";
+		return "Welcome to Spring Boot and GitHub Forking, Thanks and regards " ;
 		
 	}
 	
