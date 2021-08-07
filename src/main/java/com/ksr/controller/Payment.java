@@ -11,7 +11,8 @@ public class Payment {
 	public String display()
 	{        
 		
-		// comment added
+		// welcome to fetch command
+		
 		
 		return "Welcome to Spring Boot and GitHub Forking, Thanks and regards " ;
 		
